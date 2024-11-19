@@ -20,14 +20,19 @@
   > 生成一個名為 node_modules的檔案，安裝 Express 和 Swagger 所需的套件  
   >
   > npm install express swagger-ui-express swagger-jsdoc
-
-  > 將安裝 pg（PostgreSQL 客戶端）
-  >
-  > npm install pg
+  
+  > 將安裝 .env
+  > npm install dotenv
 
   > 安裝 cors讓前端與後端伺服器可以自定義
   >
   > npm install cors
+  
+  > 將安裝 pg（PostgreSQL 客戶端）
+  >
+  > npm install pg
+
+  
 
 ### 2.後端-資料庫(backend-db) 
   > 啟動creattable.py
