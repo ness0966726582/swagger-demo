@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1_kSVEw1GDWATSK60A1N0HSHbuMcFfXT5VePlorIuKQg/
 
 
 # 環境+後端 swagger build apis
-## 後端-環境安裝(backend-Environment installation)
+### 後端-環境安裝(backend-Environment installation)
 1.安裝 Node.js-[官網](https://nodejs.org/en)
 
 2.使用 PowerShell
@@ -27,11 +27,11 @@ https://docs.google.com/document/d/1_kSVEw1GDWATSK60A1N0HSHbuMcFfXT5VePlorIuKQg/
 - 指令5: npm install cors
   > 安裝 cors讓前端與後端伺服器可以自定義
 
-# 後端-資料庫(backend-db) 
+### 後端-資料庫(backend-db) 
 - 啟動creattable.py
   > DB創建Table與data 提供後端程式取用
 
-# 後端-伺服器啟動
+### 後端-伺服器啟動
 - 啟動伺服器 cd 路徑到\swagger-demo\backend
   > 指令1: node index.js
 - 開啟網頁 http://localhost:3000/api-docs
@@ -39,5 +39,5 @@ https://docs.google.com/document/d/1_kSVEw1GDWATSK60A1N0HSHbuMcFfXT5VePlorIuKQg/
 ====================================================================================
 # 前端
 ==================================================================================== 
-# 環境(frontend)
+### 環境(frontend)
 >
