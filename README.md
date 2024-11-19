@@ -23,7 +23,7 @@
 
   > 將安裝 pg（PostgreSQL 客戶端）
   >
-  > 指令4: npm install pg
+  > npm install pg
 
   > 安裝 cors讓前端與後端伺服器可以自定義
   >
@@ -37,11 +37,9 @@
 ### 3.啟用後端服務器 (enable server)
   > 啟動伺服器 cd 路徑到\swagger-demo\backend
   >
-  > 指令1: node index.js
+  > node index.js
 
-  > 開啟網頁 http://localhost:3000/api-docs
-  >
-  > 將開啟Swagger 搭建的 APIs 提供測試與前端使用
+  > 開啟網頁 http://localhost:3000/api-docs 將開啟Swagger 搭建的 APIs 提供測試與前端使用
 
 # 前端 Frontend
 ### 1.前端環境安裝 frontend-Environment installation
