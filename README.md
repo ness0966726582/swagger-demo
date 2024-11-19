@@ -39,4 +39,5 @@
 ### 環境(frontend)
 1. 啟動伺服器(有index.html的資料夾)
    > cd 路徑到\swagger-demo\frontend
+   > 
    > http-server --cors
