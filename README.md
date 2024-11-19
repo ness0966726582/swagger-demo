@@ -3,8 +3,7 @@
 # 建置文件準備
 > https://docs.google.com/document/d/1_kSVEw1GDWATSK60A1N0HSHbuMcFfXT5VePlorIuKQg/edit?tab=t.5jst5rcf4n5z
 
-# 查看 API 文檔
-> 打開 [Swagger Editor](https://editor.swagger.io/) 並將以下鏈接貼入 URL 欄位：
+# 查看 APIs 文檔-> 打開 [Swagger Editor](https://editor.swagger.io/) 並將以下鏈接貼入 URL 欄位：
 
 - 在你想要的位置（例如桌面）swagger-demo。
 - 開啟命令提示字元或 PowerShell，導航到該資料夾：
