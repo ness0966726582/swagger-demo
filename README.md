@@ -4,6 +4,8 @@
 3. 查看 APIs文檔 [Swagger Editor](https://editor.swagger.io/) 
 
 # 環境+後端 swagger build apis
+![image](https://github.com/user-attachments/assets/603e8110-d9b2-42eb-9639-5e5189a82021)
+
 ### 1.後端-環境安裝(backend-Environment installation)
 1.安裝 Node.js-[官網](https://nodejs.org/en)
 
@@ -47,6 +49,8 @@
   > 開啟網頁 http://localhost:3000/api-docs 將開啟Swagger 搭建的 APIs 提供測試與前端使用
 
 # 前端 Frontend
+![image](https://github.com/user-attachments/assets/09461cae-cbb7-4e60-a5e7-f003b38beead)
+
 ### 1.前端環境安裝 frontend-Environment installation
   > 初始化專案(自動生成一個基本的 package.json 檔案)
   >
@@ -66,4 +70,5 @@
   > cd 路徑到\swagger-demo\frontend
   > 
   > http-server --cors
-> 開啟網頁 http://127.0.0.1:8080/index.html
+  >
+  > 開啟網頁 http://127.0.0.1:8080/index.html
