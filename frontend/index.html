@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>使用者管理系統</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>使用者管理系統</h1>
+
+  <!-- 新增使用者 -->
+  <div class="section">
+    <h2>新增使用者</h2>
+    <input id="name" type="text" placeholder="輸入名稱">
+    <input id="email" type="email" placeholder="輸入 Email">
+    <button id="addUserBtn">新增</button>
+  </div>
+
+  <!-- 刪除使用者 -->
+  <div class="section">
+    <h2>刪除使用者</h2>
+    <input id="deleteId" type="number" placeholder="輸入使用者 ID">
+    <button id="deleteUserBtn">刪除</button>
+  </div>
+
+  <!-- 使用者清單 -->
+  <div class="section">
+    <h2>使用者清單</h2>
+    <button id="refreshBtn">刷新清單</button>
+    <ul id="userList">
+      <!-- 使用者資料將動態插入到這裡 -->
+    </ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
