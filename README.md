@@ -14,3 +14,5 @@
 > npm install express swagger-ui-express swagger-jsdoc
 - 啟動 Node.js 應用
 > node index.js
+- 網頁開啟
+＞　http://localhost:3000/api-docs
