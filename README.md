@@ -12,16 +12,18 @@
 > 
 > npm -v
 
-3.解壓縮-swagger-demo拖至桌面
-- 指令1: cd 路徑到\swagger-demo
-- 指令2: npm init -y
-  > 將生成一個名為 package.json的檔案，儲存專案的基本設定。
-- 指令3: npm install express swagger-ui-express swagger-jsdoc
-  > 將生成一個名為 node_modules的檔案，安裝 Express 和 Swagger 所需的套件
-- 指令4: npm install pg
-  > 將安裝 pg（PostgreSQL 客戶端）
-- 指令5: npm install cors
-  > 安裝 cors讓前端與後端伺服器可以自定義
+3.解壓縮-swagger-demo拖至桌面(cd 路徑到\swagger-demo)
+- 生成一個名為 package.json的檔案，儲存專案的基本設定。
+  > npm init -y
+
+- 生成一個名為 node_modules的檔案，安裝 Express 和 Swagger 所需的套件  
+  > npm install express swagger-ui-express swagger-jsdoc
+
+- 將安裝 pg（PostgreSQL 客戶端）
+  > 指令4: npm install pg
+
+- 安裝 cors讓前端與後端伺服器可以自定義
+  > npm install cors
 
 ### 後端-資料庫(backend-db) 
 - 啟動creattable.py
