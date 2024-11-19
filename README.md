@@ -5,14 +5,14 @@
 
 # 查看 APIs 文檔-> 打開 [Swagger Editor](https://editor.swagger.io/) 並將以下鏈接貼入 URL 欄位：
 
-- 在你想要的位置（例如桌面）swagger-demo。
-- 開啟命令提示字元或 PowerShell，導航到該資料夾：
-> cd 路徑到\swagger-demo
-- 初始化專案->會產生Package.json
-> npm init -y
-- 安裝必要套件->會產生Node_modules
-> npm install express swagger-ui-express swagger-jsdoc
-- 啟動 Node.js 應用
-> node index.js
-- 網頁開啟
-＞　http://localhost:3000/api-docs
+# 環境建置(本機連線資料庫)
+https://docs.google.com/document/d/1_kSVEw1GDWATSK60A1N0HSHbuMcFfXT5VePlorIuKQg/edit?tab=t.buy4itt0tk0#heading=h.da7lmvekh7xh
+
+# 環境(backend)
+> 1.安裝 Node.js(官網)
+> 2.使用 PowerShell
+>   指令1: node -v
+>   指令2:npm -v
+
+# 環境(frontend)
+>
