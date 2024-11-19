@@ -11,8 +11,8 @@ https://docs.google.com/document/d/1_kSVEw1GDWATSK60A1N0HSHbuMcFfXT5VePlorIuKQg/
 # 環境(backend)
 1.安裝 Node.js-[官網](https://nodejs.org/en)
 2.使用 PowerShell
-> 2.1: node -v
-> 2.2: npm -v
+2.1: node -v
+2.2: npm -v
 
 3.解壓縮-swagger-demo拖至桌面
 - 指令1: cd 路徑到\swagger-demo
