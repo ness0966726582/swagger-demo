@@ -61,4 +61,4 @@
   > cd 路徑到\swagger-demo\frontend
   > 
   > http-server --cors
-> 開啟網頁 127.0.0.1:8080/index.html
+> 開啟網頁 http://127.0.0.1:8080/index.html
