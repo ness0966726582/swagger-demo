@@ -10,9 +10,11 @@ https://docs.google.com/document/d/1_kSVEw1GDWATSK60A1N0HSHbuMcFfXT5VePlorIuKQg/
 
 # 環境(backend)
 1.安裝 Node.js-[官網](https://nodejs.org/en)
+
 2.使用 PowerShell
 - 指令1: node -v
 - 指令2: npm -v
+
 3.指定位置（如桌面）建立一個資料夾，命名為 swagger-demo
 - 指令1: cd 路徑到\swagger-demo
 - 指令2: npm init -y
