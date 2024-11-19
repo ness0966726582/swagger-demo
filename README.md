@@ -8,8 +8,9 @@
 1.安裝 Node.js-[官網](https://nodejs.org/en)
 
 2.使用 PowerShell
-- 指令1: node -v
-- 指令2: npm -v
+> node -v
+> 
+> npm -v
 
 3.解壓縮-swagger-demo拖至桌面
 - 指令1: cd 路徑到\swagger-demo
