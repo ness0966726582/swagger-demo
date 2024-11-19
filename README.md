@@ -8,7 +8,7 @@
 https://docs.google.com/document/d/1_kSVEw1GDWATSK60A1N0HSHbuMcFfXT5VePlorIuKQg/edit?tab=t.buy4itt0tk0#heading=h.da7lmvekh7xh
 
 ====================================================================================
-# 環境+後端 swagger build apis
+環境+後端 swagger build apis
 ==================================================================================== 
 # 後端-環境安裝(backend-Environment installation)
 1.安裝 Node.js-[官網](https://nodejs.org/en)
