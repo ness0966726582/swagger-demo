@@ -73,3 +73,4 @@
   > http-server --cors
   >
   > 開啟網頁 http://127.0.0.1:8080/index.html
+  ![image](https://github.com/user-attachments/assets/7a65b916-e326-4edc-9c58-584719c42d3a)
