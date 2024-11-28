@@ -52,7 +52,7 @@
 # 前端 Frontend
 ![image](https://github.com/user-attachments/assets/09461cae-cbb7-4e60-a5e7-f003b38beead)
 
-### 1.前端環境安裝 frontend-Environment installation
+### 4.前端環境安裝 frontend-Environment installation
   > 初始化專案(自動生成一個基本的 package.json 檔案)
   >
   > npm init -y
@@ -65,7 +65,7 @@
   >
   > npm install cors
 
-### 2.啟用前端伺服器 (enable frontend-server)
+### 5.啟用前端伺服器 (enable frontend-server)
   >啟動伺服器(有index.html的資料夾)
   >
   > cd 路徑到\swagger-demo\frontend
