@@ -1,7 +1,6 @@
 # swagger-demo
 1. [建置文件準備](https://docs.google.com/document/d/1_kSVEw1GDWATSK60A1N0HSHbuMcFfXT5VePlorIuKQg/edit?tab=t.5jst5rcf4n5z)
-2. [環境建置(本機連線資料庫)](https://docs.google.com/document/d/1_kSVEw1GDWATSK60A1N0HSHbuMcFfXT5VePlorIuKQg/edit?tab=t.pc13516slvd)
-3. 查看 APIs文檔 [Swagger Editor](https://editor.swagger.io/) 
+2. 查看 APIs文檔 [Swagger Editor](https://editor.swagger.io/) 
 
 # 環境+後端 swagger build apis
 ![image](https://github.com/user-attachments/assets/603e8110-d9b2-42eb-9639-5e5189a82021)
