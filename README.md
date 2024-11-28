@@ -15,7 +15,7 @@
 > npm -v
 
 3.解壓縮-swagger-demo拖至桌面(cd 路徑到\swagger-demo)
-  > 生成一個名為 package.json的檔案，儲存專案的基本設定。
+  > 生成一個名為 swagger.js的檔案，儲存專案的基本設定。
   > 
   > npm init -y
 
