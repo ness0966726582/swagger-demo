@@ -19,7 +19,7 @@
   > 
   > npm init -y
 
-  > 生成一個名為 node_modules的檔案，安裝 Express 和 Swagger 所需的套件  
+  > 生成一個名為 package.json & node_modules的檔案，安裝 Express 和 Swagger 所需的套件  
   >
   > npm install express swagger-ui-express swagger-jsdoc
   
